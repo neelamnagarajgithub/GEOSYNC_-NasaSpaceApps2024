@@ -1,0 +1,8 @@
+USGS_ACCESS_TOKEN= mTkwF56sLZAIC6mGQ4prlGiZmFzEJb5NL7uvH9JGfwO7z3HuP_ZfuYagARgxFU!f
+
+API_KEY=eyJjaWQiOjI3Mjc5OTY3LCJzIjoiMTcyNzAyNTcwOSIsInIiOjcxNSwicCI6WyJ1c2VyIl19
+
+{
+    "username": "neelamnagaraj99@gmail.com",
+    "token": "mTkwF56sLZAIC6mGQ4prlGiZmFzEJb5NL7uvH9JGfwO7z3HuP_ZfuYagARgxFU!f"
+}

@@ -1,0 +1,5 @@
+node_modules/
+venv/
+config.env
+private_key.json
+py files/google-cloud-sdk
